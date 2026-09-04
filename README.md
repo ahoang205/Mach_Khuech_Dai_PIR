@@ -1,4 +1,4 @@
-﻿# 📡 Mạch Khuếch Đại Cảm Biến PIR 2 - EasyEDA Pro Edition (PIR Sensor Amplifier v2)
+# 📡 Mạch Khuếch Đại Cảm Biến PIR 2 - EasyEDA Pro Edition (PIR Sensor Amplifier v2)
 
 ![Open Source Hardware](https://img.shields.io/badge/Open%20Source-Hardware-orange.svg)
 ![EDA Tool](https://img.shields.io/badge/EDA-EasyEDA%20Pro-blue.svg)
@@ -43,7 +43,7 @@ Dự án thiết kế bo mạch phần cứng **Mạch Khuếch Đại Cảm Bi�
 
 ## 📂 Cấu Trúc Thư Mục Dự Án (Repository Structure)
 
-`	ext
+```text
 Mach_Khuech_Dai_PIR2/
 ├── hardware/                         # Toàn bộ thiết kế phần cứng EasyEDA Pro
 │   ├── schematics/                   # File sơ đồ nguyên lý (PDF)
@@ -56,10 +56,13 @@ Mach_Khuech_Dai_PIR2/
 │   │   └── ProPrj_mach_khuech_dai_tin_hieu_cam_bien_PIR_2026-09-04.epro2
 │   └── 3d_model/                     # File 3D CAD (.step)
 │       └── 3D_PCB1_2026-09-04.step
+├── docs/                             # Ảnh 3D & Tài liệu minh họa
+│   ├── pcb3d_mt.png                  # Ảnh 3D Mặt Trước PCB
+│   └── pcb3d_ms.png                  # Ảnh 3D Mặt Sau PCB
 ├── .gitignore                        # Lọc file rác
 ├── LICENSE                           # Giấy phép bản quyền MIT License
 └── README.md                         # Tài liệu giới thiệu dự án
-`
+```
 
 ---
 
