@@ -83,6 +83,10 @@ Mach_Khuech_Dai_PIR2/
 │   │   └── ProPrj_mach_khuech_dai_tin_hieu_cam_bien_PIR_2026-09-04.epro2
 │   └── 3d_model/                     # Mô hình 3D CAD (.step)
 │       └── 3D_PCB1_2026-09-04.step
+├── firmware/                         # Mã nguồn vi điều khiển (Arduino IDE)
+│   └── read_ADC/                     # Chương trình đọc mẫu tín hiệu ADC & truyền UART
+│       ├── read_ADC.ino
+│       └── read_voltage/read_voltage.ino
 ├── docs/                             # Thư mục chứa tài liệu & Hình ảnh trình diễn
 │   ├── pcb3d_mt.png                  # Ảnh mô phỏng 3D Mặt Trước bo mạch
 │   └── pcb3d_ms.png                  # Ảnh mô phỏng 3D Mặt Sau bo mạch
