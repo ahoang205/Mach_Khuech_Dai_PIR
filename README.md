@@ -9,6 +9,19 @@ Dự án thiết kế bo mạch phần cứng **Mạch Khuếch Đại Cảm Bi�
 
 ---
 
+## 📸 Mô Hình 3D Bo Mạch PCB (3D PCB Top & Bottom View)
+
+<p align="center">
+  <img src="docs/pcb3d_mt.png" alt="PCB 3D Top View - Mặt Trước" width="48%"/>
+  <img src="docs/pcb3d_ms.png" alt="PCB 3D Bottom View - Mặt Sau" width="48%"/>
+</p>
+
+<p align="center">
+  <i>Mô phỏng 3D bo mạch PCB 2 lớp: Mặt Trước (Top View) & Mặt Sau (Bottom View)</i>
+</p>
+
+---
+
 ## ⚡ Tính Năng Nổi Bật (Key Features)
 
 - **Thiết Kế Trên EasyEDA Pro:** Đầy đủ file dự án nguồn gốc .epro2 để mở và tùy chỉnh trực tiếp trên EasyEDA Pro.
@@ -56,3 +69,4 @@ Dự án được phân phối dưới giấy phép [MIT License](LICENSE).
 
 ---
 *Authored by **Viet Hoang Luong**.*
+
